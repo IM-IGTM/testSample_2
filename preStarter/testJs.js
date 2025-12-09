@@ -142,7 +142,7 @@ window.onload = function () {
     },
     {
       title: "작은",
-      options: shuffle(["thin", "full", "mother", "cousin"]),
+      options: shuffle(["thin", "full", "small", "cousin"]),
       correct: "small",
       img: null,
     },
